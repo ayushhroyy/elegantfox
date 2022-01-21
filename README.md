@@ -16,7 +16,7 @@
 
 - unzip the file, go to the unzipped folder and **copy** the contents
 
-- go to your firefox profile folder (go to ''*about:support*" on firefox and click "**open directory**" in the profile coloumn as shown here: [shorturl.at/bfyKN](preview)
+- go to your firefox profile folder (go to ''*about:support*" on firefox and click "**open directory**" in the profile coloumn as shown here: [https://gcdn.pbrd.co/images/FQ7ScKV0nvhK.png?o=1](preview)
 
 - create a chrome folder and **paste** the contents copied from the unzipped folder before
 
