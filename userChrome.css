@@ -1,0 +1,131 @@
+#context-navigation,
+#context-sep-navigation,
+#context-bookmarklink,
+#context-viewinfo,
+#context-viewpartialsource-selection,
+#inspect-separator,
+#context-savelink,
+#context-sendimage,
+#context-setDesktopBackground,
+#context_reloadTab,
+#context_moveTabOptions,
+#context_bookmarkTab,
+.bookmarks-actions-menuseparator,
+.openintabs-menuitem {
+    display: none !important;
+}
+
+menupopup,
+menupopup menuitem,
+menupopup menu,
+menupopup menuseparator {
+	-moz-appearance: none !important;
+}
+
+menupopup:not(#BMB_bookmarksPopup) {
+    padding: 6px 9px 9px !important;
+	margin: -6px -9px 0 !important;
+    border: 0 !important;
+    background: 0 !important;
+}
+
+menu[open] menupopup:not(#BMB_bookmarksPopup) {
+	margin: -12px -9px 0 !important;
+}
+
+#BMB_bookmarksPopup menu[open] menupopup {
+    transform: translateY(4px) !important;
+}
+
+menupopup menuseparator
+{
+	margin-top: 5px !important;
+    margin-bottom: 5px !important;
+	padding: 0px !important;
+    border-bottom: none !important;
+	opacity: 0.2 !important;
+}
+.menupopup-arrowscrollbox {
+    background: Menu !important; /* fall back if adaptable colors are removed */
+}
+
+.menupopup-arrowscrollbox:not(.in-bookmarks-menu) {
+	padding: 6px 0 !important;
+}
+
+
+.panel-arrowcontent {
+    padding-top: 0px !important;
+    border: none !important;
+}
+
+/* shadows and rounded corners for menus */
+.menupopup-arrowscrollbox:not(.in-bookmarks-menu) {
+    border-radius: var(--menu-corner-rounding) !important;
+    box-shadow: 0px 2px 9px -3px black !important;
+}
+.panel-arrowcontainer .panel-arrowcontent, .menupopup-arrowscrollbox, hbox[flex="1"][part="innerbox"] {
+    border-radius: var(--menu-corner-rounding) !important;
+}
+
+
+
+
+.in-bookmarks-menu {
+    padding-bottom: 5px !important;
+    padding-top: 5px !important;
+}
+
+
+menu,
+menuitem, 
+menucaption {
+    -moz-appearance: none !important;
+    height: var(--menu-item-height) !important;
+}
+
+menu,
+menuitem, 
+menucaption {
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+
+menu:not(.subviewbutton) > .menu-right  {
+    margin-top: 2px !important;
+    margin-right: 0px !important;
+    width: 0px !important;
+}
+
+menu:not(.subviewbutton) > .menu-right image {
+    margin-right: -5px !important;
+    margin-top: -2px !important;
+    border: 6px solid var(--toolbar-color) !important;
+    border-top-color: transparent !important;
+    border-right-color: transparent !important;
+    border-bottom-color: transparent !important;
+}
+
+panelview toolbarbutton:not(#fxa-manage-account-button) {
+    height: var(--menu-item-height) !important;
+}
+
+#BMB_bookmarksPopup .menu-right {
+    height: 23px !important;
+}
+
+#sidebar-switcher-bookmarks, #customization-uidensity-menuitem-compact {
+    margin-top: 5px !important;
+}
+
+#customization-lwtheme-menu-header {
+    margin-top: 0px !important;
+}
+
+*{ 
+        --tab-corner-rounding: 7px;
+        --button-corner-rounding: 20px;
+        --menu-corner-rounding: 10px;
+        --menu-item-height: 30px;
+        --animation-speed: 0.4s;
+    }
