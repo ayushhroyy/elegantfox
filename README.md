@@ -1,8 +1,8 @@
-# elegant firefox menus and background wallpaper support
+# firefox menu themes and background wallpaper support
 
 ## The Goal
 
-- Elegant firefox menus theme (with linux desktops gtk and qtk being main focus)
+- An elegant firefox menus theme (with linux desktops gtk and qtk being main focus)
 
 - Background wallpaper support on firefox homepage
 
