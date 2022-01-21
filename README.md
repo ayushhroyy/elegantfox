@@ -1,4 +1,4 @@
-# firefox-theme-adaptive-menus
+# firefox theme adaptive menus
 
 ## The Goal
 
