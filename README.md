@@ -12,7 +12,7 @@
 
 ## How to install
 
-- download the zip file of this repository
+- [download](https://codeload.github.com/ayushhroyy/firefox-theme-adaptive-menus/zip/refs/heads/main) the zip file of this repository
 
 - unzip the file, go to the unzipped folder and **copy** the contents
 
