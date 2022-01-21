@@ -6,15 +6,13 @@
 
 - Background wallpaper support on firefox homepage
 
-
-
 ## Prerequisites
 
 - go to "*about:config*" and set "**toolkit.legacyUserProfileCustomizations.stylesheets**" to "**true**"
 
 ## How to install
 
--  download the zip file of this repository
+- download the zip file of this repository
 
 - unzip the file, go to the unzipped folder and **copy** the contents
 
@@ -26,23 +24,19 @@
 
 - background
 
-![ff bg final.png](/home/ayush/Pictures/ff%20bg%20final.png)
+![https://gcdn.pbrd.co/images/woqPsGnWsj0t.png?o=1](https://gcdn.pbrd.co/images/woqPsGnWsj0t.png?o=1)
 
 - context menu
-
-- ![ff cntext.png](/home/ayush/Pictures/ff%20cntext.png)
+  
+  ![https://gcdn.pbrd.co/images/GAqBoigjUE3N.png?o=1](https://gcdn.pbrd.co/images/GAqBoigjUE3N.png?o=1)
 
 - bookmark menu
-
-- ![ff bookmark fin.png](/home/ayush/Pictures/ff%20bookmark%20fin.png)
+  
+  ![https://gcdn.pbrd.co/images/xdWXD2EcVaou.png?o=1](https://gcdn.pbrd.co/images/xdWXD2EcVaou.png?o=1)
   
   - tabs menu
   
-  ![ff tab final.png](/home/ayush/Pictures/ff%20tab%20final.png)
-  
-  
-  
-  
+  ![https://gcdn.pbrd.co/images/Fkf3X5hsyFtd.png?o=1](https://gcdn.pbrd.co/images/Fkf3X5hsyFtd.png?o=1)
 
 ## Compatibility status
 
