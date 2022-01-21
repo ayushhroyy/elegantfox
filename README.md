@@ -1,8 +1,8 @@
-# firefox theme adaptive menus
+# elegant firefox menus and background wallpaper support
 
 ## The Goal
 
-- Adaptive context menus that change with firefox theme selcted by the user
+- Elegant firefox menus theme (with linux desktops gtk and qtk being main focus)
 
 - Background wallpaper support on firefox homepage
 
