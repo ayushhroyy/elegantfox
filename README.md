@@ -28,7 +28,7 @@
 
 - context menu
   
-  ![https://gcdn.pbrd.co/images/GAqBoigjUE3N.png?o=1](https://gcdn.pbrd.co/images/GAqBoigjUE3N.png?o=1)
+  ![https://gcdn.pbrd.co/images/JoerR8FLOD0H.png?o=1](https://gcdn.pbrd.co/images/JoerR8FLOD0H.png?o=1)
 
 - bookmark menu
   
