@@ -44,4 +44,4 @@
 
 - **MacOS:** Untested;
 
-- **Windows:** Untested; 
+- **Windows:** Partial Support; 
