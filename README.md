@@ -12,13 +12,13 @@
 
 ## How to install
 
-- [download] the zip file of this repository
+- Download the zip file of this repository
 
 - unzip the file, go to the unzipped folder and **copy** the contents
 
-- go to your firefox profile folder (go to ''*about:support*" on firefox and click "**open directory**" in the profile coloumn as shown here: [preview](https://gcdn.pbrd.co/images/FQ7ScKV0nvhK.png?o=1)
+- go to your firefox profile folder (go to ''**about:support**" on firefox and click "**open directory**" in the profile coloumn
 
-- create a chrome folder and **paste** the contents copied from the unzipped folder before
+- create a folder and name it **chrome** and **paste** the contents copied from the unzipped folder before
 
 ## Preview
 
