@@ -12,7 +12,7 @@
 
 ## How to install
 
-- [download](https://codeload.github.com/ayushhroyy/firefox-theme-adaptive-menus/zip/refs/heads/main) the zip file of this repository
+- [download] the zip file of this repository
 
 - unzip the file, go to the unzipped folder and **copy** the contents
 
@@ -20,23 +20,10 @@
 
 - create a chrome folder and **paste** the contents copied from the unzipped folder before
 
-## Previews
+## Preview
 
-- background
+![elegantfox](https://github.com/user-attachments/assets/8a27d7b4-bef6-40ae-9897-a26e739f722c)
 
-![https://gcdn.pbrd.co/images/woqPsGnWsj0t.png?o=1](https://gcdn.pbrd.co/images/woqPsGnWsj0t.png?o=1)
-
-- context menu
-  
-  ![https://gcdn.pbrd.co/images/JoerR8FLOD0H.png?o=1](https://gcdn.pbrd.co/images/JoerR8FLOD0H.png?o=1)
-
-- bookmark menu
-  
-  ![https://gcdn.pbrd.co/images/xdWXD2EcVaou.png?o=1](https://gcdn.pbrd.co/images/xdWXD2EcVaou.png?o=1)
-  
-  - tabs menu
-  
-  ![https://gcdn.pbrd.co/images/Fkf3X5hsyFtd.png?o=1](https://gcdn.pbrd.co/images/Fkf3X5hsyFtd.png?o=1)
 
 ## Compatibility status
 
