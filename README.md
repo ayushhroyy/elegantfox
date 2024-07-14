@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-- go to "*about:config*" and set "**toolkit.legacyUserProfileCustomizations.stylesheets**" to "**true**"
+- go to "**about:config**" and set "**toolkit.legacyUserProfileCustomizations.stylesheets**" to "**true**"
 
 ## How to install
 
