@@ -1,5 +1,3 @@
-# firefox menu themes and background wallpaper support
-
 ## The Goal
 
 - An elegant firefox menus theme (with linux desktops gtk and qtk being main focus)
