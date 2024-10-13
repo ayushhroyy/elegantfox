@@ -27,6 +27,6 @@
 
 - **Linux:** Tested; Full Support
 
-- **MacOS:** Untested;
+- **MacOS:** Did not work in my testing;
 
 - **Windows:** Partial Support; 
