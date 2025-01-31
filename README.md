@@ -1,3 +1,6 @@
+Repository viewer count: ![Repository viewer count](https://profile-counter.glitch.me/{ayushhroyy}/count.svg)
+
+
 ## The Goal
 
 - An elegant firefox menus theme (with linux desktops gtk and qtk being main focus)
