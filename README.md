@@ -35,6 +35,3 @@ Repository viewer count:
 - **MacOS:** Did not work in my testing;
 
 - **Windows:** Partial Support;
-
-- ![Visitor Count](https://profile-counter.glitch.me/{ayushhroyy}/count.svg)
-
