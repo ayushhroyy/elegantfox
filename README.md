@@ -29,4 +29,7 @@
 
 - **MacOS:** Did not work in my testing;
 
-- **Windows:** Partial Support; 
+- **Windows:** Partial Support;
+
+- ![Visitor Count](https://profile-counter.glitch.me/{ayushhroyy}/count.svg)
+
