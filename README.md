@@ -1,4 +1,6 @@
-Repository viewer count: ![Repository viewer count](https://profile-counter.glitch.me/{ayushhroyy}/count.svg)
+Repository viewer count: 
+
+![Repository viewer count](https://profile-counter.glitch.me/{ayushhroyy}/count.svg)
 
 
 ## The Goal
